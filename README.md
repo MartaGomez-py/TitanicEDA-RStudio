@@ -1,4 +1,4 @@
-# Análisis Exploratorio de Datos — Titanic
+# Análisis Exploratorio de Datos Titanic
 
 Este proyecto fue realizado durante el primer curso, en la asignatura **Introduction to Data Science**.
 
